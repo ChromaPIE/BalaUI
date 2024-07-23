@@ -1,6 +1,6 @@
 # BalaUI
 
-A set of modding utilities for [Balatro](https://store.steampowered.com/app/2379780/Balatro/) and [Steamodded](https://github.com/Steamopollys/Steamodded).
+为 [Balatro](https://store.steampowered.com/app/2379780/Balatro/) 的 [Steamodded](https://github.com/Steamopollys/Steamodded) 模组编写设计的实用工具套件。
 
 ## Features and planned features
 

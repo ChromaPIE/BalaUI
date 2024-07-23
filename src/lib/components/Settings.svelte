@@ -14,12 +14,12 @@
     <ul class="NotoSansSC-Bold flex flex-row gap-4 text-2xl">
         <li>
             <button name="crt" on:click={toggleCrt}>
-                <span class="{$settings.crt ? 'text-green-500' : 'text-red-500'}">CRT</span>
+                <span class="{$settings.crt ? 'text-green-500' : 'text-red-500'}">CRT效果</span>
             </button>
         </li>
         <li>
             <button name="smoothBackground" on:click={toggleSmoothBackground}>
-                <span class="{$settings.smoothBackground ? 'text-green-500' : 'text-red-500'}">Smooth Background</span>
+                <span class="{$settings.smoothBackground ? 'text-green-500' : 'text-red-500'}">平滑背景</span>
             </button>
         </li>
     </ul>

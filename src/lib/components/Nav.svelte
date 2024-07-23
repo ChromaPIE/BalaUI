@@ -4,8 +4,8 @@
     import { onMount } from 'svelte'
 
     let links = [
-        { href: '/', text: 'Home' },
-        { href: '/joker', text: 'Create Joker' },
+        { href: '/', text: '主页' },
+        { href: '/joker', text: '新建小丑牌' },
     ]
 </script>
 

@@ -95,7 +95,7 @@
         and <a href="https://github.com/Steamopollys/Steamodded/">Steamodded</a>.
     </p>
 
-    <h2 class="text-4xl py-4">Changelog</h2>
+    <h2 class="text-4xl py-4">更新日志</h2>
 
     {#each changelog as entry}
         <div class="pb-2">

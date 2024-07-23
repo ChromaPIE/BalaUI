@@ -244,7 +244,7 @@ SMODS.Joker{
 
 <div class="NotoSansSC-Bold flex flex-row gap-2">
     <div class="text-2xl flex-1 flex flex-col gap-1">
-        <LabelField name='jokerKey' label='Key:' bind:value={jokerKey} on:input={updateShareCode} />
+        <LabelField name='jokerKey' label='键：' bind:value={jokerKey} on:input={updateShareCode} />
         <LabelField name='jokerLocName' label='Name:' bind:value={jokerLocName} on:input={updateShareCode} />
         <LabelTextArea name='jokerLocText' label='Description:' bind:value={jokerLocText} on:input={updateShareCode} />
         <LabelDropdown name='jokerRarity' label='Rarity:' on:change={updateShareCode} bind:value={jokerRarity} options={[{value: 1, label: 'Common'}, {value: 2, label: 'Uncommon'}, {value: 3, label: 'Rare'}, {value: 4, label: 'Legendary'}]} />
