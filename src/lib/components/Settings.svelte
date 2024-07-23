@@ -11,7 +11,7 @@
 </script>
 
 <div>
-    <ul class="m6x11plus flex flex-row gap-4 text-2xl">
+    <ul class="NotoSansSC-Bold flex flex-row gap-4 text-2xl">
         <li>
             <button name="crt" on:click={toggleCrt}>
                 <span class="{$settings.crt ? 'text-green-500' : 'text-red-500'}">CRT</span>

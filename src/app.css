@@ -4,19 +4,19 @@
 
 @layer base {
     @font-face {
-        font-family: 'm6x11plus';
+        font-family: 'Noto Sans SC Bold';
         font-style: normal;
         font-weight: 500;
-        src: url('/fonts/m6x11plus.ttf') format('truetype');
+        src: url('/fonts/NotoSansSC-Bold.ttf') format('truetype');
     }
 
     pre > code {
-        font-family: 'm6x11plus';
+        font-family: 'Noto Sans SC Bold';
         font-size: 1.2rem;
     }
 
-    .m6x11plus {
-        font-family: 'm6x11plus';
+    .NotoSansSC-Bold {
+        font-family: 'Noto Sans SC Bold';
         @apply text-white;
     }
 }

@@ -10,7 +10,7 @@
 </script>
 
 <nav>
-    <ul class="m6x11plus flex flex-row gap-4 text-2xl">
+    <ul class="NotoSansSC-Bold flex flex-row gap-4 text-2xl">
         {#each links as link}
             <li>
                 {#if $page.url.pathname === base + link.href}

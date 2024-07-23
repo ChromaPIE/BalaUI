@@ -25,11 +25,11 @@
         <Settings />
     </header>
 
-    <main class="m6x11plus pt-2">
+    <main class="NotoSansSC-Bold pt-2">
         <slot />
     </main>
 
-    <footer class="m6x11plus mt-4">
+    <footer class="NotoSansSC-Bold mt-4">
         <div class="flex flex-row gaps-4">
             <a class="underline underline-offset-4 text-2xl" target="_blank" href="https://github.com/cozyGalvinism/BalaUI">GitHub</a>
         </div>

@@ -12,7 +12,7 @@
 </script>
 
 <div
-    class="flex flex-col gap-2 rounded-lg bg-[#374244] border-[#D8D8D8] border-2 m6x11plus w-fit p-1 pt-0 shadow"
+    class="flex flex-col gap-2 rounded-lg bg-[#374244] border-[#D8D8D8] border-2 NotoSansSC-Bold w-fit p-1 pt-0 shadow"
 >
     <h1 class="text-4xl m-2 mx-6 mb-0">
         <JumpingText

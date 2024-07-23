@@ -242,7 +242,7 @@ SMODS.Joker{
     {@html atomOneDark}
 </svelte:head>
 
-<div class="m6x11plus flex flex-row gap-2">
+<div class="NotoSansSC-Bold flex flex-row gap-2">
     <div class="text-2xl flex-1 flex flex-col gap-1">
         <LabelField name='jokerKey' label='Key:' bind:value={jokerKey} on:input={updateShareCode} />
         <LabelField name='jokerLocName' label='Name:' bind:value={jokerLocName} on:input={updateShareCode} />
